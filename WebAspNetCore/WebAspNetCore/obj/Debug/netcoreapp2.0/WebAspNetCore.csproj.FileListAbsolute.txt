@@ -10,3 +10,15 @@ D:\aspnetcore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.
 D:\aspnetcore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.AssemblyInfo.cs
 D:\aspnetcore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.dll
 D:\aspnetcore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.pdb
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\bin\Debug\netcoreapp2.0\WebAspNetCore.deps.json
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\bin\Debug\netcoreapp2.0\WebAspNetCore.runtimeconfig.json
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\bin\Debug\netcoreapp2.0\WebAspNetCore.runtimeconfig.dev.json
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\bin\Debug\netcoreapp2.0\WebAspNetCore.dll
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\bin\Debug\netcoreapp2.0\WebAspNetCore.pdb
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.csprojAssemblyReference.cache
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.csproj.CoreCompileInputs.cache
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.AssemblyInfoInputs.cache
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.AssemblyInfo.cs
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.dll
+D:\AspNetProjetos\AspNetCore\WebAspNetCore\WebAspNetCore\obj\Debug\netcoreapp2.0\WebAspNetCore.pdb

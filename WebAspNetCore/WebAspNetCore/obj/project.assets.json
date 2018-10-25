@@ -13266,11 +13266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aspnetcore\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\WebAspNetCore.csproj",
+      "projectUniqueName": "D:\\AspNetProjetos\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\WebAspNetCore.csproj",
       "projectName": "WebAspNetCore",
-      "projectPath": "D:\\aspnetcore\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\WebAspNetCore.csproj",
+      "projectPath": "D:\\AspNetProjetos\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\WebAspNetCore.csproj",
       "packagesPath": "C:\\Users\\adeil\\.nuget\\packages\\",
-      "outputPath": "D:\\aspnetcore\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\obj\\",
+      "outputPath": "D:\\AspNetProjetos\\AspNetCore\\WebAspNetCore\\WebAspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
